@@ -108,5 +108,3 @@ Add a `LICENSE` file to the repo root. If unsure, consider MIT or Apache 2.0.
 Maintainer: project owner
 
 ---
-
-If you'd like, I can add a `docs/` folder with screenshots, a CONTRIBUTING guide, and a GitHub Actions CI workflow next.
